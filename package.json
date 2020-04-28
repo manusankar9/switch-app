@@ -1,5 +1,6 @@
 {
   "name": "switch-app",
+  "homepage": "https://switch-toggle.netlify.app/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
