@@ -1,5 +1,5 @@
 // let switchApi = 'http://localhost:8000';
-let herokuapi = 'https://switch-toggle.herokuapp.com'
+let herokuapi = 'https://switch-api-app.herokuapp.com'
 
 export default (url,options = {})=>{
 
